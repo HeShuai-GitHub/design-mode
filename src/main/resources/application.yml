@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: design-mode
+
+strategy:
+  aliasMap:
+    strategy1: strategyServiceImpl1
+    strategy2: strategyServiceImpl2
